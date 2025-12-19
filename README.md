@@ -18,7 +18,7 @@ NEW YEAR BRIDGE - Let's Reflect Own Year & Aspire for New Year. 1年の終わり
 ・その投稿が力になる時は、スクショして保存をすることができる(LocalStorageにて)
 
 ## アプリのデプロイURL
-https://path-weave.sakura.ne.jp/newbridge/
+https://ラーニングシステム参照.sakura.ne.jp/newbridge/
 
 ## 工夫した点・こだわった点
 ・実際にこの時期にローンチできる企画とデザインを考えつくっていった。
